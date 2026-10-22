@@ -13,6 +13,9 @@
 # testing
 /coverage
 
+# authenticated photography review files (never commit)
+/docs/version-2/private-review/
+
 # next.js
 /.next/
 /out/
