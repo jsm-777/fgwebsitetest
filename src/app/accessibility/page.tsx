@@ -1,0 +1,7 @@
+import type { Metadata } from "next";
+import { contact } from "@/lib/site-data";
+
+export const metadata: Metadata = { title: "Accessibility", description: "Financial Groove website accessibility statement and contact information." };
+export default function AccessibilityPage() {
+  return <section className="section"><article className="article-shell legal"><span className="eyebrow">Our commitment</span><h1>Accessibility</h1><p><strong>Last updated: October 21, 2026</strong></p><p>Financial Groove wants this website to be useful to as many people as possible, including people who navigate with keyboards, screen readers, magnification, voice tools, or reduced-motion settings.</p><h2>What we have built in</h2><ul><li>Semantic page structure and a skip-to-content link</li><li>Keyboard-accessible navigation and visible focus indicators</li><li>Responsive layouts with scalable type</li><li>Text alternatives for meaningful images</li><li>Reduced-motion support and strong color contrast</li></ul><h2>Ongoing work</h2><p>Accessibility is an ongoing practice. Content, browsers, assistive technologies, and third-party services change, so the site should be reviewed as it evolves.</p><h2>Need help or found a barrier?</h2><p>Email <a href={contact.emailHref}>{contact.email}</a> or call <a href={contact.phoneHref}>{contact.phone}</a>. Please describe the page, the problem, and the format or accommodation that would help. Financial Groove will make a reasonable effort to provide the information another way.</p></article></section>;
+}
