@@ -27,7 +27,7 @@ Before selected photographs are committed or published, confirm:
 
 Completed:
 
-- Private working contact sheet: `docs/version-2/private-review/curated-contact-sheet.jpg` (Git-ignored)
+- Private working contact sheet: `docs/version-2/private-review/still-frames-shortlist.jpg` (Git-ignored)
 - Tracked filename and placement manifest: `docs/version-2/PHOTOGRAPHY_SELECTION.md`
 
 The full 1,337-image gallery was not copied into the repository.
