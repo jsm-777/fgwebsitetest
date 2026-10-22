@@ -24,4 +24,3 @@ Before selected photographs are committed or published, confirm:
 ## Curation output
 
 After access, create a private working contact sheet and a selection manifest containing only filenames/IDs and intended uses. Do not copy the full 1,337-image gallery into the repository.
-

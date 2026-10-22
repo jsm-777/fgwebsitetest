@@ -117,4 +117,3 @@ For every candidate, record gallery identifier, orientation, subject, intended p
 5. Re-run content verification for current services, credentials, testimonials, press, and office language.
 6. Complete accessibility, performance, metadata, and browser QA.
 7. Publish a separate Vercel preview before any production-domain decision.
-

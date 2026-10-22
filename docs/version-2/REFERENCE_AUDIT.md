@@ -1,7 +1,7 @@
 # Financial Groove website Version 2 reference audit
 
-Date: October 22, 2026  
-Branch: `version-2`  
+Date: October 22, 2026
+Branch: `version-2`
 Version 1 baseline: tag `v1.0.0`, commit `60399d115248e6e06aaed45a267097fc45f561b0`
 
 ## Source authority
@@ -103,4 +103,3 @@ The gallery cannot be responsibly incorporated until authenticated access is ava
 - Bring the current live site's atmosphere forward while keeping Version 1's usability and technical quality.
 - Shorten the homepage and make each transition feel like a deliberate act or count.
 - Use Jessica's founder story as a trust moment later in the journey rather than the primary hero image.
-
